@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "sqlite3": "^4.2.0"
+  },
+  "name": "mittari",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines":{
+    "node": "16.14.2"
+  },
+  "description": ""
+}
